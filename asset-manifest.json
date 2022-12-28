@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maple_app/static/css/main.964fdded.css",
-    "main.js": "/maple_app/static/js/main.19826382.js",
+    "main.js": "/maple_app/static/js/main.d9e88206.js",
     "static/js/787.7584b935.chunk.js": "/maple_app/static/js/787.7584b935.chunk.js",
     "index.html": "/maple_app/index.html",
     "main.964fdded.css.map": "/maple_app/static/css/main.964fdded.css.map",
-    "main.19826382.js.map": "/maple_app/static/js/main.19826382.js.map",
+    "main.d9e88206.js.map": "/maple_app/static/js/main.d9e88206.js.map",
     "787.7584b935.chunk.js.map": "/maple_app/static/js/787.7584b935.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.19826382.js"
+    "static/js/main.d9e88206.js"
   ]
 }
