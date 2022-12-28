@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/maple_app/static/css/main.d6ca53df.css",
-    "main.js": "/maple_app/static/js/main.9cc6f3c1.js",
+    "main.js": "/maple_app/static/js/main.3db55555.js",
     "static/js/787.7584b935.chunk.js": "/maple_app/static/js/787.7584b935.chunk.js",
     "static/media/MaplestoryLight.otf": "/maple_app/static/media/MaplestoryLight.d2110cb8b8de5224831e.otf",
     "index.html": "/maple_app/index.html",
     "main.d6ca53df.css.map": "/maple_app/static/css/main.d6ca53df.css.map",
-    "main.9cc6f3c1.js.map": "/maple_app/static/js/main.9cc6f3c1.js.map",
+    "main.3db55555.js.map": "/maple_app/static/js/main.3db55555.js.map",
     "787.7584b935.chunk.js.map": "/maple_app/static/js/787.7584b935.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6ca53df.css",
-    "static/js/main.9cc6f3c1.js"
+    "static/js/main.3db55555.js"
   ]
 }
