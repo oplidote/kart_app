@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/maple_app/static/css/main.d6ca53df.css",
-    "main.js": "/maple_app/static/js/main.24173c0b.js",
-    "static/js/787.7584b935.chunk.js": "/maple_app/static/js/787.7584b935.chunk.js",
-    "static/media/MaplestoryLight.otf": "/maple_app/static/media/MaplestoryLight.d2110cb8b8de5224831e.otf",
-    "index.html": "/maple_app/index.html",
-    "main.d6ca53df.css.map": "/maple_app/static/css/main.d6ca53df.css.map",
-    "main.24173c0b.js.map": "/maple_app/static/js/main.24173c0b.js.map",
-    "787.7584b935.chunk.js.map": "/maple_app/static/js/787.7584b935.chunk.js.map"
+    "main.css": "/kart_app/static/css/main.af37c330.css",
+    "main.js": "/kart_app/static/js/main.9a450af3.js",
+    "static/js/787.65cadd25.chunk.js": "/kart_app/static/js/787.65cadd25.chunk.js",
+    "static/media/MaplestoryLight.otf": "/kart_app/static/media/MaplestoryLight.d2110cb8b8de5224831e.otf",
+    "index.html": "/kart_app/index.html",
+    "main.af37c330.css.map": "/kart_app/static/css/main.af37c330.css.map",
+    "main.9a450af3.js.map": "/kart_app/static/js/main.9a450af3.js.map",
+    "787.65cadd25.chunk.js.map": "/kart_app/static/js/787.65cadd25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6ca53df.css",
-    "static/js/main.24173c0b.js"
+    "static/css/main.af37c330.css",
+    "static/js/main.9a450af3.js"
   ]
 }
