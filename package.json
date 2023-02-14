@@ -1,5 +1,6 @@
 {
-  "name": "maple_app",
+  "name": "kart_app",
+  "homepage": "https://oplidote.github.io/kart_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
